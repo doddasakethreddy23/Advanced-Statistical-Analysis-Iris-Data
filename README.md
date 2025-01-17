@@ -104,4 +104,3 @@ The Iris dataset includes the following variables:
 1. Clone this repository:
    ```bash
    git clone https://github.com/doddasakethreddy23/Advanced-Statistical-Analysis-Iris-Data.git
-   cd Statistical-Analysis-Iris-Data
